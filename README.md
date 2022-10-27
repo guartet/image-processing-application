@@ -41,3 +41,7 @@ Frequency filtering
  + We can apply low-pass and high-pass filters on the image the image to bring out certain ranges of frequencies
  + ![Capture1](https://user-images.githubusercontent.com/79747866/198334466-f306ec14-1c03-4b86-8e4f-9bc4e3e1bdf7.PNG)
 
+point of interest and corner
+ + Susan
+ + Harris
+![Capture](https://user-images.githubusercontent.com/79747866/198335157-d1c78992-5c83-4cba-b032-70dfe922b806.PNG)
