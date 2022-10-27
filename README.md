@@ -33,3 +33,11 @@ Arithmetic and logical operations between images
   + Kirsch
   + Marr-Hildreth
   + Marr-Hildreth versus sobel
+
+Frequency filtering
+
+ + An image can be represented by a 2D signal
+ + Its Fourier transform gives the intensity as a function of function of the frequency
+ + We can apply low-pass and high-pass filters on the image the image to bring out certain ranges of frequencies
+ + ![Capture1](https://user-images.githubusercontent.com/79747866/198334466-f306ec14-1c03-4b86-8e4f-9bc4e3e1bdf7.PNG)
+
