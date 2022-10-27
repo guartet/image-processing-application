@@ -45,3 +45,8 @@ point of interest and corner
  + Susan
  + Harris
 ![Capture](https://user-images.githubusercontent.com/79747866/198335157-d1c78992-5c83-4cba-b032-70dfe922b806.PNG)
+
+# if you have any questions or remarks, do not hesitate to contact me.
+here is my email
+abdelhaq.guartet@usmba.ac.ma
+
